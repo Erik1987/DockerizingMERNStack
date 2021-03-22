@@ -36,6 +36,7 @@ $ sudo systemctl status docker
 
 // get Dockerfile that says Dockerfile for React client
 // and place it in client folder
+// from https://github.com/Erik1987/DockerizingMERNStack/tree/master
 
 // then run frontend with this command
 
@@ -47,6 +48,7 @@ $ docker run -p 3000:3000 react-app
 
 // get Dockerfile that says Dockerfile for Node Express Backend
 // and place it in server folder
+// from https://github.com/Erik1987/DockerizingMERNStack/tree/master
 
 // We can simply build our Backend with this command:
 
